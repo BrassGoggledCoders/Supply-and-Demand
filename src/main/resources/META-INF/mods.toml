@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+issueTrackerURL="https://github.com/Brass-Goggled-Coders/Supply-And-Demand/issues"
+
+[[mods]]
+    modId="supplyanddemand"
+    version="${file.jarVersion}"
+    displayName="Supply and Demand"
+    authors="SkySom"
+    credits="DivineAspect for Design"
+    description='''
+    '''
